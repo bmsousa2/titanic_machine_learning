@@ -1,2 +1,3 @@
 # titanic_machine_learning
-Titanic - Machine Learning - Kaggle
+Kaggle - Challenge
+With sklearn and Pandas
